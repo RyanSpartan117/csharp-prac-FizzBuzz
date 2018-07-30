@@ -1,0 +1,20 @@
+# To start a new .net project: 
+dotnet new console
+
+# To run the project
+dotnet run
+
+# Add a package
+dotnet add package <package_name>
+
+# List of nugets to use for test automation
+
+FluentAssertions 
+mstest.testadapter
+MstestHacks
+Mstest.testFrameworks
+Specflow
+Specflow.mstest
+Selenium.webdriver
+Selenium.chrome.webdriver
+Selenium.support

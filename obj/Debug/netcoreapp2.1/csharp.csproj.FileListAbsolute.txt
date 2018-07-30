@@ -1,0 +1,11 @@
+/Users/ryanchapman/Documents/csharp/bin/Debug/netcoreapp2.1/csharp.deps.json
+/Users/ryanchapman/Documents/csharp/bin/Debug/netcoreapp2.1/csharp.runtimeconfig.json
+/Users/ryanchapman/Documents/csharp/bin/Debug/netcoreapp2.1/csharp.runtimeconfig.dev.json
+/Users/ryanchapman/Documents/csharp/bin/Debug/netcoreapp2.1/csharp.dll
+/Users/ryanchapman/Documents/csharp/bin/Debug/netcoreapp2.1/csharp.pdb
+/Users/ryanchapman/Documents/csharp/obj/Debug/netcoreapp2.1/csharp.csprojAssemblyReference.cache
+/Users/ryanchapman/Documents/csharp/obj/Debug/netcoreapp2.1/csharp.csproj.CoreCompileInputs.cache
+/Users/ryanchapman/Documents/csharp/obj/Debug/netcoreapp2.1/csharp.AssemblyInfoInputs.cache
+/Users/ryanchapman/Documents/csharp/obj/Debug/netcoreapp2.1/csharp.AssemblyInfo.cs
+/Users/ryanchapman/Documents/csharp/obj/Debug/netcoreapp2.1/csharp.dll
+/Users/ryanchapman/Documents/csharp/obj/Debug/netcoreapp2.1/csharp.pdb
